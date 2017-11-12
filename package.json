@@ -1,0 +1,18 @@
+{
+  "name": "codeblock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Ayesha",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-phonenumber": "^2.2.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
+}
